@@ -518,7 +518,7 @@ map <- map + theme(panel.grid.minor=element_blank(),
 ```
 
 <p align="justify">
-Lastly, I also wanted to show the value of choropleth maps if you want to compare values across regions. Plot 15 is a simple and clean choropleth map showing number of shootings across the different states of the US.  
+Lastly, I also wanted to show the value of choropleth maps if you want to compare values across regions. Plot 19 is a simple and clean choropleth map showing number of shootings across the different states of the US.  
 </p>
     
 ```{r, echo=FALSE, fig.align='center'}
